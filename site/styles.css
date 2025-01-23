@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #90979c; /* Updated background color */
+}
+
+header {
+    background-color: #0078d7;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+h2 {
+    color: #0078d7;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    padding-left: 20px; /* Indent for better readability */
+}
+
+a {
+    color: #0078d7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0078d7;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Color styles for the parentheses */
+.blue { color: blue; }
+.orange { color: orange; }
+.green { color: green; }
+.purple { color: purple; }
+.magenta { color: magenta; }
+.yellow { color: yellow; }
+.red { color: red; }
+.white { color: #9D9C9C; }
+.vermilion { color: #e34234; }
+.cyan { color: cyan; }
